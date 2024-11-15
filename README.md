@@ -46,6 +46,16 @@ To the initial data i added the follwing task:
 - I used vlook up to join two tables information.
 - Added a currency symboll in all values where necessary.
 
+### Transformation of Data
+- Added a new columm to caculate the revenue 
+
+<img width="610" alt="Screenshot 2024-11-15 at 17 23 20" src="https://github.com/user-attachments/assets/31d2bd87-22a2-4cd2-884a-65b856cc61e4">
+
+
+- I used the syntax "vlookup" to get a column from a seperate table called 'categories table' and then joined it to my orders for analyzing simplicity.
+
+<img width="920" alt="Excel pic 2" src="https://github.com/user-attachments/assets/137031b6-f903-4de8-a0a4-59b00ca6b8d8">
+
 
 
 
