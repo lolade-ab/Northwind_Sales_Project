@@ -21,7 +21,7 @@ This data analysis project aims to provide insight into the sales performance of
 ## Data Sources
 This data is a public data and its not in any form a real-world company data and its only used for the purpose of learning and showing my data analytic skills.
 
-## Tools and Concept Demostrated
+## Tools and Concept Demonstrated
 - Microsoft Excel
   - Data cleaning, Pivot table, Functions:(sum, average, count, vlookup).
 - PowerBI
