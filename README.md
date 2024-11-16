@@ -49,7 +49,7 @@ key areas, including:
 To the initial data i added the follwing task:
 - Revenue column
 - I used vlook up to join two tables information.
-- Added a currency symboll in all values where necessary.
+- Added a currency symbol in all values where necessary.
 
 ## Transformation of Data
 #### Added a new columm to caculate the revenue 
