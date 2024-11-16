@@ -4,11 +4,13 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Tools and Concept Demostrated](#tools-and-concept-demonstrated)
+- [Tools and Concept Demonstrated](#tools-and-concept-demonstrated)
 - [Explanatory Data Analysis](#explanatory-data-analysis)
 - [Data Cleaning and preparations](#data-cleaning-and-operations)
 - [Transformation of Data](#transformation-of-data)
 - [Data Analysis and Visualization](#data-analysis-and-visualization)
+- [Result and Findings](#result-and-findings)
+- [Recommendations](#recommendations)
 
 
 
@@ -94,8 +96,8 @@ I created a dashboard with PowerBI to show the following trends
 
 ![power bi visualzation dashboard](https://github.com/user-attachments/assets/1b92b189-7a24-4bf7-a733-15a86cc731e5)
 
-## Result/Findings
-#### The analysis result are sumarised as follow:
+## Result and Findings
+### The analysis result are sumarised as follow:
 1. The company revenue has been steadily increasing over the past years analysing from 2013,2014,2015 with a noticable peak at the first quater of 2015 with revenue of $134,630.56.
 2. Out of the 8 categories of product the company produces, the Beverage category with ID number (1) is the best category in terms of sales and revenue especially in the USA.
 3. The Employee who has generated the most sales is Margaret Peacock with total sales of $250,187 in the USA.
@@ -108,24 +110,24 @@ I created a dashboard with PowerBI to show the following trends
 ## Recommendations
 Based on the analysis on this dataset, the following are recommended:
 ### Revenue and Sales Optimization
-1. Leverage the Beverage Category's Popularity:
+### 1. Leverage the Beverage Category's Popularity:
 - Expand Product Lines:Consider introducing new beverage products or variations to capitalize on its success, particularly in the USA.
 - Focus marketing efforts and promotions around beverages in the USA, as this market segment demonstrates stronger performance.
 - Analyze the potential to expand beverage sales into other countries where demand may be untapped.
 
-2. Support High-Performing Employees:
+### 2. Support High-Performing Employees:
 - Recognize and reward Margaret Peacock for her exceptional sales performance. Consider using her strategies as a model for training other employees.
 - Implement programs to encourage and motivate the broader sales team to improve performance.
 
-3. Customer Relationship Management:
+### 3. Customer Relationship Management:
 - Offer loyalty incentives to top customers like SAVEA and ERNSH to encourage continued engagement and larger order volumes.
 - Build strategies to increase the customer base in the 21 countries where orders are generated. Prioritize countries with potential for growth, leveraging lessons from the USA market.
 
-4. Operational Efficiency:
-- Improve Shipping and Logistics: Analyze the cost-effectiveness of the shipping providers. United Package, while handling the highest number of orders (326), incurs the highest cost. --- Negotiating better rates or switching to a more cost-efficient provider may improve margins.
+### 4. Operational Efficiency:
+- Improve Shipping and Logistics: Analyze the cost-effectiveness of the shipping providers. United Package, while handling the highest number of orders (326), incurs the highest cost. - Negotiating better rates or switching to a more cost-efficient provider may improve margins.
 - Address the average order processing time of 12 days. Implement systems or technologies to reduce this time, enhancing customer satisfaction and competitiveness.
 
-4. Diversify Revenue Streams:
+### 5. Diversify Revenue Streams:
 - Evaluate underperforming product Product categories to identify potential improvements or diversification opportunities.
 - As the USA generates most of the profit, prioritize strategies that further strengthen this market, such as enhanced promotions or partnerships with local distributors.
 - Monitor quarterly trends, such as the noticeable peak in Q1 of 2015, to prepare inventory and align marketing campaigns with high-demand periods.
