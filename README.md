@@ -6,7 +6,7 @@
 - [Data Sources](#data-sources)
 - [Tools and Concept Demonstrated](#tools-and-concept-demonstrated)
 - [Explanatory Data Analysis](#explanatory-data-analysis)
-- [Data Cleaning and preparations](#data-cleaning-and-operations)
+- [Data Cleaning and preparations](#data-cleaning-and-preparations)
 - [Transformation of Data](#transformation-of-data)
 - [Data Analysis and Visualization](#data-analysis-and-visualization)
 - [Result and Findings](#result-and-findings)
