@@ -98,7 +98,7 @@ I created a dashboard with PowerBI to show the following trends
 
 ## Result and Findings
 ### The analysis result are sumarised as follow:
-1. The company revenue has been steadily increasing over the past years analysing from 2013,2014,2015 with a noticable peak at the first quater of 2015 with revenue of $134,630.56.
+1. The company revenue has been steadily increasing over the past years analysing from 2013,2014,2015 with a noticable peak at the first quater of 2015 with revenue of $315,242.56.
 2. Out of the 8 categories of product the company produces, the Beverage category with ID number (1) is the best category in terms of sales and revenue especially in the USA.
 3. The Employee who has generated the most sales is Margaret Peacock with total sales of $250,187 in the USA.
 4. The customer ID who has placed the highest order is SAVEA with total orders of 31, followed by ERNSH with total orders of 30.
