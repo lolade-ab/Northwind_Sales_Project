@@ -27,7 +27,7 @@ This data is a public data and its not in any form a real-world company data and
 - PowerBI
   - Creating key performance indicators (KPIs) and other business calculations, Data Modelling, toolips, creating Dashboard report.
 
-## Explanatory Data Analysis (EDA)
+## Explanatory Data Analysis 
 The following business questions will be answered to assist in understanding this data and making the best recommenedation posssible using Microsoft Excel.
 - What is the total sales (revenue) for each category of products.
 - Determine which customer has placed the highest number of orders.
