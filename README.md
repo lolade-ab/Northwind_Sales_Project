@@ -1,4 +1,4 @@
-# Northwind_Sales_Project
+# Northwind Sales Project Using Excel and PowerBI for Visualization
 
 ## Table of Content
 
