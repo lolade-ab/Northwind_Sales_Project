@@ -94,7 +94,7 @@ I created a dashboard with PowerBI to show the following trends
  - Key customers
  - Shipping Cost
 
-![power bi visualzation dashboard](https://github.com/user-attachments/assets/1b92b189-7a24-4bf7-a733-15a86cc731e5)
+[![power bi visualzation dashboard](https://github.com/user-attachments/assets/1b92b189-7a24-4bf7-a733-15a86cc731e5)](https://github.com/lolade-ab/Northwind_Sales_Project/blob/main/Images/power%20bi%20visualzation%20dashboard.jpg)
 
 ## Result and Findings
 ### The analysis result are sumarised as follow:
